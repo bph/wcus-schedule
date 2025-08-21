@@ -2,6 +2,8 @@
 
 A Python script to extract your favorite sessions from any WordCamp schedule and generate an ICS calendar file.
 
+![Calendar view after import](Example-Calendar-view-after-import.png)
+
 ## What it does
 
 - Takes a WordCamp schedule URL with favorite sessions marked
@@ -12,13 +14,13 @@ A Python script to extract your favorite sessions from any WordCamp schedule and
 ## Usage
 
 ```bash
-python wordcamp_favorites.py '<schedule_url_with_favorites>'
+python3 wordcamp_favorites.py '<schedule_url_with_favorites>'
 ```
 
 ### Example
 
 ```bash
-python wordcamp_favorites.py 'https://us.wordcamp.org/2025/schedule/?fav-sessions=1834,1952,2303,2644'
+python3 wordcamp_favorites.py 'https://us.wordcamp.org/2025/schedule/?fav-sessions=1834,1952,2303,2644'
 ```
 
 ## Requirements
