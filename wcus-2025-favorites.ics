@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WordCamp US 2025//Favorite Sessions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20250309T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20251102T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+UID:6219@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250827T091500
+DTEND;TZID=America/Los_Angeles:20250827T100000
+SUMMARY:The Tech That Comes Next: How Changemakers, Philanthropists, and Technologists Can Build an Equitable World
+DESCRIPTION:Speaker: Amy Sample Ward
+LOCATION:Mt. Hood
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6225@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250827T103000
+DTEND;TZID=America/Los_Angeles:20250827T111500
+SUMMARY:Modernizing at Scale: How FSE Supports Wikimedia's Evolving UX
+DESCRIPTION:Speaker: Joeleen Kennedy
+LOCATION:Mt. Hood
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3416@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250827T141500
+DTEND;TZID=America/Los_Angeles:20250827T150000
+SUMMARY:Moving a Website from Classic to a Block Theme
+DESCRIPTION:Speaker: Mary Ann Aschenbrenner
+LOCATION:Rose City
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6243@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250827T151500
+DTEND;TZID=America/Los_Angeles:20250827T160000
+SUMMARY:Catch Bugs Faster with AI & Playwright (No Hype, Just Results)
+DESCRIPTION:Speaker: Wendy Erdheim-Poch
+LOCATION:Stumptown
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7749@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250827T161500
+DTEND;TZID=America/Los_Angeles:20250827T170000
+SUMMARY:WordPress Campus Connect: Empowering WordPress' Future Generations
+DESCRIPTION:Speaker: Destiny Kanno
+LOCATION:Rose City
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2956@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250828T103000
+DTEND;TZID=America/Los_Angeles:20250828T111500
+SUMMARY:Core AI: What We're Building
+DESCRIPTION:Speakers: James LePage, Felix Arntz, Jeffrey Paul
+LOCATION:Mt. Hood
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6250@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250828T113000
+DTEND;TZID=America/Los_Angeles:20250828T121500
+SUMMARY:A PHP Developer's Guide to ReactJS
+DESCRIPTION:Speaker: Jemima Abu
+LOCATION:Mt. Hood
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2644@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250828T134500
+DTEND;TZID=America/Los_Angeles:20250828T143000
+SUMMARY:Building Experiences: Design Systems, User Experience, and Full Site Editing
+DESCRIPTION:Speaker: Michelle Schulp Hunt
+LOCATION:Mt. Hood
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1834@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250828T144500
+DTEND;TZID=America/Los_Angeles:20250828T153000
+SUMMARY:Building Resilient Interfaces by Embracing Fluid Design
+DESCRIPTION:Speaker: Anton Plauche
+LOCATION:Mt. Hood
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3461@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250828T154500
+DTEND;TZID=America/Los_Angeles:20250828T163000
+SUMMARY:Data visualization the easy way (National Marine Sanctuaries has got your back)
+DESCRIPTION:Speaker: Jai Ranganathan
+LOCATION:Rose City
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7541@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250828T164500
+DTEND;TZID=America/Los_Angeles:20250828T173000
+SUMMARY:A New Era of Experiential Medicine – AI and the Brain
+DESCRIPTION:Speaker: Adam Gazzaley
+LOCATION:Mt. Hood
+END:VEVENT
+
+BEGIN:VEVENT
+UID:7543@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250829T091500
+DTEND;TZID=America/Los_Angeles:20250829T100000
+SUMMARY:Cozy AI Cooking: WordCamp Edition
+DESCRIPTION:Speaker: John Maeda
+LOCATION:Mt. Hood
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1952@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250829T103000
+DTEND;TZID=America/Los_Angeles:20250829T111500
+SUMMARY:The System is the Strategy
+DESCRIPTION:Speaker: Tammie Lister
+LOCATION:Mt. Hood
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3284@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250829T134500
+DTEND;TZID=America/Los_Angeles:20250829T143000
+SUMMARY:From Storefront to Strategy: What Happens When AI Shops for Your Customers?
+DESCRIPTION:Speaker: Sonja Ibele
+LOCATION:Stumptown
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2303@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250829T144500
+DTEND;TZID=America/Los_Angeles:20250829T153000
+SUMMARY:Unlock Developer Superpowers with AI
+DESCRIPTION:Speaker: Adam Silverstein
+LOCATION:Mt. Hood
+END:VEVENT
+
+BEGIN:VEVENT
+UID:6799@wordcamp-us-2025
+DTSTART;TZID=America/Los_Angeles:20250829T160000
+DTEND;TZID=America/Los_Angeles:20250829T164500
+SUMMARY:Keynote and Q&A
+DESCRIPTION:Speaker: Matt Mullenweg
+LOCATION:Mt. Hood
+END:VEVENT
+
+END:VCALENDAR
