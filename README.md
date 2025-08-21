@@ -36,6 +36,8 @@ pip install requests
 3. Copy the URL - it will contain `?fav-sessions=1234,5678,9012`
 4. Use that URL with the script
 
+![WordCamp Schedule](WordCamp-Schedule-Fav-link.png)
+
 ## Output
 
 - Console: List of your favorite sessions with details
