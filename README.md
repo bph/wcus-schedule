@@ -64,3 +64,4 @@ Favorite Sessions:
 
 Calendar saved to: wordcamp_favorites.ics
 ```
+Collaborated with Claude Code ([See session log](https://docs.google.com/document/d/13BWhaKr0XU_UyFAbdfRmlXe8KYKmsZwJ62B2NsyD2JQ/edit?usp=sharing))
